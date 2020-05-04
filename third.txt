@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 5A4C-C029
+
+ Directory of C:\BVRRAG\GitFolder
+
+04-05-2020  11:58    <DIR>          .
+04-05-2020  11:58    <DIR>          ..
+04-05-2020  11:06               332 First.txt
+04-05-2020  11:57               410 Second.txt
+04-05-2020  11:58                 0 third.txt
+               3 File(s)            742 bytes
+               2 Dir(s)  622,120,812,544 bytes free
